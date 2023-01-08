@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pramod-jay
 - 👀 I’m interested in Programming/Web Designing
-- 🌱 I’m currently learning C/Python/Java
+- 🌱 I’m currently learning C/Python/Java/React/React-native/NodeJS
 - 📫 How to reach me https://www.facebook.com/pramodjayathilake/
 - 👨🏻‍🎓 Currently studying at University of Moratuwa 🇱🇰
 - 🎓 Currently Following BSc. in IT & Management
